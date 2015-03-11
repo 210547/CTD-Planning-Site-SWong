@@ -37,7 +37,8 @@
 </head>
 
 <body> 
-<div id="apDiv1"><h1>Steven Wong's Planning Site for CTD 3C.02</h1></div>
+<div id="apDiv1">
+  <h1>Steven Wong's Planning Site for CTD 3C.02</h1></div>
 <!-- TemplateBeginEditable name="Text" -->
 <div id="apDiv2"></div>
 <!-- TemplateEndEditable -->
